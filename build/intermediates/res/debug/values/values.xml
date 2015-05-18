@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/workspace/mobliesafe/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/D:/workspace/mobliesafe/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">手机安全卫士</string>
+    <string name="app_name_sim">安全卫士</string>
+    <string name="hello_world">Hello world!</string>
+    <!-- From: file:/D:/workspace/mobliesafe/res/values/config.xml -->
+    <eat-comment/>
+    <string name="serverurl">http://192.168.1.104:8080/androidapk/info.xml</string>
+    <!-- From: file:/D:/workspace/mobliesafe/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="title_activity_setting_center">SettingCenterActivity</string>
+    <!-- From: file:/D:/workspace/mobliesafe/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
